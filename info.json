@@ -1,12 +1,22 @@
 {
-  "name": "###NAME###",
-  "title": "###TITLE###",
-  "description": "###DESCRIPTION###",
+  "name": "khaosmassive-spoilage-solution",
+  "title": "Massive Planets and More - Spoilage Solution",
+  "description": "Mod pack that consolidates all Spoilage Solution mods for Massive Planets and More into one mod.",
   "author": "QuingKhaos",
   "homepage": "https://discord.gg/SYmkaDjFCt",
   "version": "1.0.0",
   "factorio_version": "2.0",
   "dependencies": [
-    "base >= 2.0.77"
-  ]
+    "base >= 2.0.77",
+
+    "! khaosmassive-frozen-food",
+    "! khaosmassive-frozen-goodies",
+
+    "spoilage-solution-fork >= 1.2.0",
+    "spoilage-solution-aquilo-seabloom-algaculture >= 1.0.0",
+    "spoilage-solution-fulgora-coralmium-agriculture >= 1.0.0",
+    "spoilage-solution-pHactorio >= 1.0.0",
+    "spoilage-solution-tweaks >= 1.0.0"
+  ],
+  "spoiling_required": true
 }

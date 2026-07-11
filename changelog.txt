@@ -1,3 +1,5 @@
 ---------------------------------------------------------------------------------------------------
 Version: 1.0.0
-Date: ????
+Date: 2027-07-11
+  Compatibility:
+    - Include spoilage solution mods as dependencies.
