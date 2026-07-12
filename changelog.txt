@@ -1,4 +1,10 @@
 ---------------------------------------------------------------------------------------------------
+Version: 1.1.0
+Date: 2027-07-12
+  Compatibility:
+    - Add spoilage solution support for Boompuff Agriculture.
+    - Add spoilage solution support for Fluroflux: Stingfrond Agriculture.
+---------------------------------------------------------------------------------------------------
 Version: 1.0.0
 Date: 2027-07-11
   Compatibility:
